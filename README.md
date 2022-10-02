@@ -14,4 +14,4 @@ https://user-images.githubusercontent.com/96025300/193469112-790f2a86-ff83-4dac-
 * **Hayır coroutineScope çalışmaz**
 * Çünkü Logcatte SECOUND tag döngünün devam ettiğini 
   gösteriyor,PATIKA tag ise logcatte düşmüyor nedeni **MainThread döngü ile meşgul
-  döngü kırılamadığı sürece coroutineScope çalışmayacaktır**
+  döngü kırılamadığı sürece coroutineScope çalışmayacaktır.**
